@@ -2,7 +2,7 @@
 - 👌 I'm an Engineer, My goal improve myself on Embedded Solutions.
 - 👀 I’m interested in Embedded Software and Hardware Design.
 - 🌱 I’m currently learning Embedded Software.
-- 📫 How to reach me "mertgurdoan@gmail.com" 
+- 📫 How to reach me "mertgurdogann@gmail.com" 
 
 
 <!---
